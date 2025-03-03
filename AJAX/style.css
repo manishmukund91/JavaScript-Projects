@@ -1,0 +1,18 @@
+/* Basic styling for the page elements (you can customize this) */
+body {
+    font-family: sans-serif;
+}
+
+.main {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
